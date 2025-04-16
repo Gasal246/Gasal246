@@ -23,7 +23,7 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
 - 🌱 **Learning:** Advanced Kubernetes patterns & Rust programming
 - 👯 **Looking to collaborate on:** Open-source projects in developer tooling
 - 💡 **Interests:** Cloud-native architectures, Machine Learning Ops, and DevSecOps
-- 🎯 **2024 Goals:** Contribute to 3 major OSS projects & earn AWS Certified Solutions Architect
+- 🎯 **2025 Goals:** Contribute to 3 major OSS projects & earn AWS Certified Solutions Architect
 
 ---
 
