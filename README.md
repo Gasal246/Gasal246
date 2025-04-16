@@ -64,9 +64,11 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
 
 ### 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Microservices Authentication Patterns in 2024](https://medium.com/@gasalgasal246)
-- [Optimizing Docker Images for Production](https://medium.com/@gasalgasal246)
-- [Building a Serverless CI/CD Pipeline with AWS](https://medium.com/@gasalgasal246)
+- [What is a Microprocessor](https://medium.com/@gasalgasal246/whats-a-microprocessor-a244f269b76c)
+- [NPU Neural Processing Unit](https://medium.com/@gasalgasal246/npu-neural-processing-unit-5f404425ca4c)
+- [BUILD A WEB-APP LIKE EXCALIDRAW](https://medium.com/@gasalgasal246/what-you-need-to-know-to-build-a-web-app-like-excalidraw-3296d71819a4)
+- [Blockchain 101, The Future of Money and Data.](https://medium.com/@gasalgasal246/blockchain-101-the-future-of-money-and-data-08f4c9deb3cf)
+- [..more](https://medium.com/@gasalgasal246)
 <!-- BLOG-POST-LIST:END -->
 
 ---
