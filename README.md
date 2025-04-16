@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Muhammed Gasal</h1>
+<h1 align="center">I'm Muhammed Gasal</h1>
 <h3 align="center">Full-Stack Developer | Tech Enthusiast | Continuous Learner</h3>
 
 <p align="center">
