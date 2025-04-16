@@ -19,11 +19,11 @@
 
 I'm a passionate full-stack developer with expertise in building scalable web applications and robust systems. Currently exploring the intersection of AI and distributed systems while contributing to open-source projects.
 
-- 🔭 **Currently working on:** Next-gen AI-powered analytics platform
-- 🌱 **Learning:** Advanced Kubernetes patterns & Rust programming
-- 👯 **Looking to collaborate on:** Open-source projects in developer tooling
+- 🔭 **Currently working on:** Broken Relationship with my losted brain.
+- 🌱 **Learning:** Alphabets,
+- 👯 **Looking to collaborate on:** Open-source projects in developer tooling..
 - 💡 **Interests:** Cloud-native architectures, Machine Learning Ops, and DevSecOps
-- 🎯 **2025 Goals:** Contribute to 3 major OSS projects & earn AWS Certified Solutions Architect
+- 🎯 **2025 Goals:** 401 ( get home early )
 
 ---
 ### 📈 GitHub Stats
