@@ -91,15 +91,6 @@ These aren’t demos — they’re **problem-solving builds**.
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gasal246&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gasal246&layout=compact&theme=radical" height="160"/>
-</p>
-
----
-
 ## ✍️ Writing & Knowledge Sharing
 
 I regularly write about systems, computing fundamentals, and modern development:
